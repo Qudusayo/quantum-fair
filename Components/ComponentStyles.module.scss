@@ -1,0 +1,15 @@
+.connectButton,
+.connectedButton {
+  outline: none;
+  background-color: #653aa3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.connectedButton {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
